@@ -51,6 +51,7 @@ out/
 *.tmp
 temp/
 tmp/
+cookies*.txt
 
 # Logs
 logs/
