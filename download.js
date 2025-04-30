@@ -20,9 +20,9 @@ const path = require('path');
 
 // Input URLs (works for both /watch?v= and /live/)
 const rawURLs = [
-  'https://www.youtube.com/watch?v=XXIuKnKYHFw',
-  'https://www.youtube.com/live/wwFJRH8rniM',
-  'https://www.youtube.com/live/A65fKxCjuGM'
+  'https://www.youtube.com/[watch?v=[ID]',
+  'https://www.youtube.com/live/[ID]',
+  'https://www.youtube.com/live/[ID]'
 ];
 
 // Optional: convert /live/ links to /watch?v=
