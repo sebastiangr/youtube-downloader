@@ -1,0 +1,15 @@
+{
+  "name": "youtube-node-downloader",
+  "description": "A simple Node.js application that uses the yt-dlp python library to download YouTube videos.",
+  "version": "1.0.0",
+  "main": "download.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ytdl-core": "^4.11.5"
+  }
+}

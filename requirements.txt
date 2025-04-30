@@ -1,0 +1,11 @@
+# Core YouTube downloading functionality
+yt-dlp>=2023.3.4
+
+# Progress bar for downloads
+tqdm>=4.65.0
+
+# HTTP requests
+requests>=2.28.2
+
+# Optional: For advanced audio/video processing
+ffmpeg-python>=0.2.0
